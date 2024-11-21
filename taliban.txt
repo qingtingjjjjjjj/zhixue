@@ -1041,14 +1041,6 @@ ZOOMOO,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 神州新聞台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 
-
-美亚电视C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-TVB星河台,http://205.185.123.236:8899/tvb/xinghe/stream.m3u8
-千禧经典台,http://205.185.123.236:8899/astro/qianxi/stream.m3u8
-TVB生活台,http://205.185.123.236:8899/tvb/Finance/stream.m3u8
-东森频道,http://108.181.20.215:43465
-
-
 💓港澳台📶,#genre#
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
