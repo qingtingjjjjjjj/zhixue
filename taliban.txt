@@ -728,11 +728,11 @@ CHC家庭影院,http://annaxi.lw-home.com:11111/udp/239.253.254.152:8000
 
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 PopC,http://free.xiptv.x10.bz/kudou.php?id=38
-爆谷台,http://223.244.26.190:8082/now星影.盗源者死全家/易發TV/hls.m3u8
-星影台,http://223.244.26.190:8082/now包谷.盗源者死全家/易發TV/hls.m3u8
+爆谷台,http://223.244.26.190:8082/now包谷.盗源者死全家/易發TV/hls.m3u8
 爆谷台,https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
 星影台,https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
 星河台,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
+
 
 緯来电影,http://108.181.20.215:44779
 采昌影剧,https://stream1.freetv.fun/0bc646a16e8318982972d11e7e26b2a38bafee9be98597045b97e82f2e6bf588.ctv
