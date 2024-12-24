@@ -8,11 +8,9 @@ Q群号,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240066736888
 加入QQ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240228462625.mp4
 476901432,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240069974546.mp4
 获取密码,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240121912724.mp4
-HBO West,https://stream1.freetv.fun/979bc094c14d320433e8f8dd25435644e7d0a971d6bf6424f68592a5719f7f46.ctv
-HBO Signature,https://stream1.freetv.fun/74e5e8ad73efbbfe9c6c963a60e5bff5c8bb185f13e06653a3a15a58fea2ab79.ctv
 Cinemax,https://stream1.freetv.fun/623e74977c99b042ad87f5990189b3fd4f0b722f5d0fdd92ef227bf6ee5d02ca.ctv
-HBO Family,https://stream1.freetv.fun/646f4f061eab9fc7baf484795840816f62c956c3074a66b2d24a9f3d97646d6b.ctv
-HBO Family,https://stream1.freetv.fun/hbo-family-12.ctv
+HBO Family,https://stream1.freetv.fun/facd9e8c62f1eea7e0243cbffe113c5a6ba4c98cd60ba5e9a4c1b4cfe22f1d26.m3u8
+HBO Hits,https://stream1.freetv.fun/fc65ac7bd39985efdd33c8ae9f4135cbf2c70c8957ed8d2e20787d21d01c71c2.ctv
 HBO,https://stream1.freetv.fun/896153e21084846ff890166a24b5028a6b12fea3d6c20dd8b2c0057f5a1b4705.ctv
 HBO,https://stream1.freetv.fun/hbo-8.ctv
 HBO Hits,https://stream1.freetv.fun/77471f1909530ab804289374c806a05183a4fca2f6dd1b5acd1f47ae8dabb61a.ctv
