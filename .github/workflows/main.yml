@@ -2,7 +2,8 @@ name: zhixue
 
 on:
   schedule:
-    - cron: '0 ,06,18, * * *'
+  # 每天 UTC 时间 5:30 运行（即美国东部时间 0:30）
+  - cron: '30 5 * * *'
   push:
     branches:
       - main
