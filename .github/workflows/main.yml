@@ -1,4 +1,4 @@
-name: dfyuan
+name: zhixue
 
 on:
   schedule:
@@ -29,8 +29,8 @@ jobs:
                                
       - name: 提交更改
         run: |
-          git config --local user.email "mlyuanlang@126.com"
-          git config --local user.name "mlvjfchen"
+          git config --local user.email "quwuping11@gmail.com"
+          git config --local user.name "qingtingjjjjjjj"
           git add .
           git commit *.txt -m "Add generated file"
           git push -f
